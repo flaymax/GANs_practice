@@ -1,6 +1,6 @@
 # GANs_practice
  
-Based on generative models course by Arip Asadulaev
+Based on Generative Models course by Arip Asadulaev in MIPT
 
 1. Vanilla GAN and CGAN implemented from scratch (pytorch)
 2. Conditional GAN
